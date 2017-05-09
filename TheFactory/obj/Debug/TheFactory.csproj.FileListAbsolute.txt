@@ -1,0 +1,9 @@
+D:\Projects\visual studio 2010\Projects\TheFactory\TheFactory\bin\Debug\TheFactory.exe.config
+D:\Projects\visual studio 2010\Projects\TheFactory\TheFactory\obj\Debug\TheFactory.csprojResolveAssemblyReference.cache
+D:\Projects\visual studio 2010\Projects\TheFactory\TheFactory\obj\Debug\TheFactory.Form1.resources
+D:\Projects\visual studio 2010\Projects\TheFactory\TheFactory\obj\Debug\TheFactory.Properties.Resources.resources
+D:\Projects\visual studio 2010\Projects\TheFactory\TheFactory\obj\Debug\TheFactory.csproj.GenerateResource.Cache
+D:\Projects\visual studio 2010\Projects\TheFactory\TheFactory\bin\Debug\TheFactory.exe
+D:\Projects\visual studio 2010\Projects\TheFactory\TheFactory\bin\Debug\TheFactory.pdb
+D:\Projects\visual studio 2010\Projects\TheFactory\TheFactory\obj\Debug\TheFactory.exe
+D:\Projects\visual studio 2010\Projects\TheFactory\TheFactory\obj\Debug\TheFactory.pdb
